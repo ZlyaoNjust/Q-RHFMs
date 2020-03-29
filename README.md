@@ -1,1 +1,1 @@
-# Effective-quaternion-radial-harmonic-Fourier-moments-for-color-image-representation
+# Link-of-manuscript-SIVP-D-19-00584R1
